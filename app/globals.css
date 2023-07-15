@@ -1,0 +1,18 @@
+header{
+  border: 1px solid red;
+  height: 100px;
+  background: #9933CC;
+}
+main{
+  
+}
+
+footer{
+  border: 1px solid red;
+  height: 90px;
+  background: #0099CC;
+}
+
+.a_tbdr{
+  border: 1px solid red;
+}
